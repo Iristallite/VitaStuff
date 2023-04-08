@@ -11,7 +11,7 @@ Shotout to [AzimovParviz's](https://github.com/AzimovParviz) [PSVitaGameLister](
 I wrote this because I wanted to recover the list of games installed on my PS Vita's <span title="Yes, microSD card. SD2Vita adapters are awesome!">microSD card</span> after it died.  
 <center>
   <img
-    src="./.git/vita_rip.jpg"
+    src=".vitarip.jpg"
     alt="RIP my Vita OLED, 2017-2023"
     width=50%
     height=50%
