@@ -40,7 +40,7 @@ $MBaseCount = $MBase1.count ## count of all games
 $MBaseIndex = 0 ## index
 $MBase1.foreach({
   $MBaseIndex ++
-  [Array] $MBase2 += [VitaGame]::new($_.'Title ID',$_.'Name',$MBaseIndex)
+  [Array] $MBase2 += [VitaGame]::New($_.'Title ID',$_.'Name',$MBaseIndex)
   @{
     ID = 00
     ParentID = (-1)
