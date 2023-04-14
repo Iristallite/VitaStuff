@@ -20,8 +20,8 @@ class VitaGame{
     [string] $N,
     [string] $I
   ){
-    $this.ID = $ID
-    $this.Name = $N
+    $this.ID    = $ID
+    $this.Name  = $N
     $this.Index = $I
   }
 }
